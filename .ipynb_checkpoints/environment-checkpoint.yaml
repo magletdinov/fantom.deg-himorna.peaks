@@ -1,0 +1,12 @@
+name: fantomorna
+channels:
+  - anaconda
+  - bioconda
+dependencies:
+  - python=3.11
+  - pandas
+  - numpy
+  - joblib
+  - scipy
+  - statsmodels
+  - ucsc-liftover

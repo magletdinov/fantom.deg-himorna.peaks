@@ -1,0 +1,10 @@
+1)  fantom_l2-to-GRCh38.ipynb
+2)  concat-methyl-peaks.ipynb
+3)  reassoc-himorna.ipynb
+4)  create-himorna-index.ipynb (пока что на данных без (3))
+5)  create-fantom_deg-index.ipynb
+6)  create-conf_matrix.ipynb
+7)  fisher-exact_test.ipynb
+8)  heatmaps-jaccard.ipynb
+9)  heatmaps.ipynb
+10) jaccard-index.ipynb

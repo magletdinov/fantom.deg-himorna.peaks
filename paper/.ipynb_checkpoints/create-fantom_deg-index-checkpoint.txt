@@ -1,0 +1,3 @@
+# Индексирование результатов дифференциальной экспресии в экспрементах по нокдауну.
+
+Для дополнительного подтверждения функциональной связи между геномными модификациями и lncRNA (скоррелированные пики HIMoRNA) нами были обработаны результаты нокдаун экспермиентов FANTOM для ряда целевых lncRNA в двух типах тканей (фибробласты и iPS). https://fantom.gsc.riken.jp/6/suppl/Ramilowski_et_al_2020/data/DEGs/01_combined/DESeq2_genes_ASO_all.tsv.bz2 и https://fantom.gsc.riken.jp/6/suppl/Yip_et_al_2022/data/processed_raw_data/EdgeR.table.all.target.tsv.bz2 соответственно.
